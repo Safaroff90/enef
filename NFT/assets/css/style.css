@@ -1,0 +1,217 @@
+#first {
+  border-bottom: 1px solid rgb(172, 165, 165);
+}
+
+.social a {
+  text-decoration: none;
+  padding-left: 1rem;
+}
+.social a svg {
+  color: rgb(172, 165, 165);
+}
+.social a svg:hover {
+  color: rgb(87, 81, 81);
+}
+
+.button {
+  background-image: linear-gradient(to right, #c4209e, #6f73c6);
+  padding: 0.7rem 2rem;
+  border: none;
+  border-radius: 5px;
+  margin-left: 1.5rem;
+  color: #fff;
+  background-size: 200%;
+  overflow: hidden;
+  background-position: left;
+}
+.button:hover {
+  background-position: right;
+}
+
+.nav-link {
+  font-size: 17px !important;
+  font-weight: 500 !important;
+  padding-left: 2rem !important;
+}
+
+.navbar-nav {
+  padding-left: 7rem !important;
+}
+
+.sign a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 17px !important;
+  font-weight: 500 !important;
+}
+.sign svg {
+  color: blue;
+  font-weight: 900;
+}
+
+.col-md-5 {
+  padding-top: 5rem;
+}
+.col-md-5 h2 {
+  font-size: 55px;
+  line-height: 1.2;
+  font-family: "Poppins", sans-serif;
+}
+.col-md-5 p {
+  text-align: left;
+  color: #c4c4c4;
+  font-weight: 400;
+}
+
+.strong {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(to right, #c4209e, #6f73c6);
+}
+
+.row {
+  padding-top: 5rem;
+}
+
+.carusel {
+  margin-top: 7rem;
+}
+.carusel p {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.4;
+}
+
+.item {
+  border: 0.5px solid #acacac;
+  padding: 5px 16px;
+  color: #acacac;
+  border-radius: 5px;
+  background: #000;
+  font-size: 12px;
+}
+
+.foot {
+  background: #1a1a1a;
+  padding: 30px;
+  padding-top: 50px;
+  border-bottom: 2px solid #d01498;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.foot a {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.5s;
+}
+.foot a:hover {
+  color: #6f73c6;
+}
+
+#explore {
+  background-color: #f9f9f9;
+  padding-top: 2.5rem;
+}
+#explore p {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.4;
+  padding-bottom: 1.5rem;
+}
+#explore button {
+  background-color: #ffffff;
+  padding: 0.7rem 2rem;
+  border: none;
+  border-radius: 5px;
+  margin-left: 1.5rem;
+  color: black;
+  border: 1px solid #c4209e;
+}
+
+.h-3 {
+  font-family: "Poppins", sans-serif;
+  line-height: 24px;
+  color: #242424;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 0 !important;
+}
+.card img {
+  border-radius: 0 !important;
+}
+
+.card-body a {
+  border-bottom: 1px solid #acacac;
+  text-decoration: none;
+}
+.card-body a:hover {
+  color: #6f73c6;
+}
+
+.col3 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  width: 22.5%;
+}
+.col3 img {
+  border-radius: 50%;
+}
+
+.pb-7rem {
+  padding-bottom: 7rem;
+}
+
+.icons a {
+  text-decoration: none;
+  padding-right: 20px;
+  font-weight: 700;
+  font-size: 20px;
+  color: black;
+}
+.icons span {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.number {
+  color: #f0f0f0;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+#sell {
+  padding-bottom: 8rem;
+}
+#sell h2 {
+  padding-top: 5rem;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.4;
+  text-align: center;
+}
+#sell a {
+  font-size: 35px !important;
+  color: #ffffff;
+  background: #d01498;
+  padding: 18px 18px 13px;
+  border-radius: 50%;
+}
+#sell p {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 1.4;
+}
+#sell span {
+  color: #cccccc;
+  font-size: 17px;
+  line-height: 1.4;
+  font-weight: 400;
+}/*# sourceMappingURL=style.css.map */
